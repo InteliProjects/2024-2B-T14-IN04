@@ -28,9 +28,9 @@ Desenvolvimento do controle de acesso às dependências do Instituto.
   - https://github.com/Inteli-College/2024-2B-T14-IN04-G03
 
 - Grupo 4 - 
-  - Link do repositório: https://github.com/InteliProjects/2024-2B-T14-IN04-G03
+  - Link do repositório: https://github.com/InteliProjects/2024-2B-T14-IN04-G04
   - https://github.com/Inteli-College/2024-2B-T14-IN04-G04
 
 - Grupo 5 - 
-  - Link do repositório: https://github.com/InteliProjects/2024-2B-T14-IN04-G03
+  - Link do repositório: https://github.com/InteliProjects/2024-2B-T14-IN04-G05
   - https://github.com/Inteli-College/2024-2B-T14-IN04-G05
